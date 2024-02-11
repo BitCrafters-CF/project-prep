@@ -1,5 +1,7 @@
 # BitCrafters TEAM AGREEMENT #
 
+Team Members: Ahmed Elnogoumi, Mak Trnka, Patrick Reveira
+
 
 **Cooperation Plan**
 
