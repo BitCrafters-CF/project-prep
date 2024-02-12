@@ -131,3 +131,15 @@ Reminder as you work on and practice your presentations:
         * Send a slack message
             * !!!! Merge Request !!!! Name: ; Note: ; PR-URL:
 
+**Create your Pitch**
+Once your team had decided on 1 or 2 favorites, prepare your pitches for submission. Each pitch should contain the following information:
+* Name of Project
+1. ***Summary of idea.***
+* A text based (HTML, CSS, JS) roleplaying game. This is a game that allows you to fight monsters, buy items and travel.
+2. ***What problem or pain point does it solve?***
+* Keep it high level without going into too much detail. (3-4 sentences is enough) This product is meant to be a piece of entertainment. While games can be entertaining, they can be very heavy on your computer. This is a lightweight way to pass the time. 
+3. ***Minimum Viable Product (MVP) definition.***
+* Going from point A to point B, random encounters and a merchant.
+
+
+
